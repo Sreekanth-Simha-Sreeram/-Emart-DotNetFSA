@@ -1,0 +1,28 @@
+E:\Shilpa\WebApplication2\Emart.BussinessLayer\bin\Debug\netcoreapp2.1\Emart.BussinessLayer.deps.json
+E:\Shilpa\WebApplication2\Emart.BussinessLayer\bin\Debug\netcoreapp2.1\Emart.BussinessLayer.dll
+E:\Shilpa\WebApplication2\Emart.BussinessLayer\bin\Debug\netcoreapp2.1\Emart.BussinessLayer.pdb
+E:\Shilpa\WebApplication2\Emart.BussinessLayer\bin\Debug\netcoreapp2.1\Emart.DataLayer.dll
+E:\Shilpa\WebApplication2\Emart.BussinessLayer\bin\Debug\netcoreapp2.1\Emart.Entities.dll
+E:\Shilpa\WebApplication2\Emart.BussinessLayer\bin\Debug\netcoreapp2.1\Emart.DataLayer.pdb
+E:\Shilpa\WebApplication2\Emart.BussinessLayer\bin\Debug\netcoreapp2.1\Emart.Entities.pdb
+E:\Shilpa\WebApplication2\Emart.BussinessLayer\obj\Debug\netcoreapp2.1\Emart.BussinessLayer.csprojAssemblyReference.cache
+E:\Shilpa\WebApplication2\Emart.BussinessLayer\obj\Debug\netcoreapp2.1\Emart.BussinessLayer.csproj.CoreCompileInputs.cache
+E:\Shilpa\WebApplication2\Emart.BussinessLayer\obj\Debug\netcoreapp2.1\Emart.BussinessLayer.AssemblyInfoInputs.cache
+E:\Shilpa\WebApplication2\Emart.BussinessLayer\obj\Debug\netcoreapp2.1\Emart.BussinessLayer.AssemblyInfo.cs
+E:\Shilpa\WebApplication2\Emart.BussinessLayer\obj\Debug\netcoreapp2.1\Emart.BussinessLayer.csproj.CopyComplete
+E:\Shilpa\WebApplication2\Emart.BussinessLayer\obj\Debug\netcoreapp2.1\Emart.BussinessLayer.dll
+E:\Shilpa\WebApplication2\Emart.BussinessLayer\obj\Debug\netcoreapp2.1\Emart.BussinessLayer.pdb
+E:\Shilpa\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.1\Emart.BussinessLayer.deps.json
+E:\Shilpa\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.1\Emart.BussinessLayer.dll
+E:\Shilpa\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.1\Emart.BussinessLayer.pdb
+E:\Shilpa\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.1\Emart.DataLayer.dll
+E:\Shilpa\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.1\Emart.Entities.dll
+E:\Shilpa\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.1\Emart.DataLayer.pdb
+E:\Shilpa\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.1\Emart.Entities.pdb
+E:\Shilpa\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.1\Emart.BussinessLayer.csprojAssemblyReference.cache
+E:\Shilpa\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.1\Emart.BussinessLayer.csproj.CoreCompileInputs.cache
+E:\Shilpa\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.1\Emart.BussinessLayer.AssemblyInfoInputs.cache
+E:\Shilpa\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.1\Emart.BussinessLayer.AssemblyInfo.cs
+E:\Shilpa\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.1\Emart.BussinessLayer.csproj.CopyComplete
+E:\Shilpa\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.1\Emart.BussinessLayer.dll
+E:\Shilpa\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.1\Emart.BussinessLayer.pdb

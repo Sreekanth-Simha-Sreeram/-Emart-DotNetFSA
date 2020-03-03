@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emart.Web", "WebApplication2\Emart.Web.csproj", "{3921CB4C-19EE-490A-8282-C86559DCBD2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emart.BussinessLayer", "Emart.BussinessLayer\Emart.BussinessLayer.csproj", "{A0402020-2486-4C5B-88B9-4F9292E70F2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emart.DataLayer", "Emart.DataLayer\Emart.DataLayer.csproj", "{A0337396-733F-4740-9FF9-FC4F6F20EC4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emart.Entities", "Emart.Entities\Emart.Entities.csproj", "{4C4EA6FC-089F-489F-84A5-F548B8B869D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emart.Test", "Emart.Test\Emart.Test.csproj", "{C26A8CF7-2C72-4C21-ACD7-13F776DEE546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3921CB4C-19EE-490A-8282-C86559DCBD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3921CB4C-19EE-490A-8282-C86559DCBD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3921CB4C-19EE-490A-8282-C86559DCBD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3921CB4C-19EE-490A-8282-C86559DCBD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0402020-2486-4C5B-88B9-4F9292E70F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0402020-2486-4C5B-88B9-4F9292E70F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0402020-2486-4C5B-88B9-4F9292E70F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0402020-2486-4C5B-88B9-4F9292E70F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0337396-733F-4740-9FF9-FC4F6F20EC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0337396-733F-4740-9FF9-FC4F6F20EC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0337396-733F-4740-9FF9-FC4F6F20EC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0337396-733F-4740-9FF9-FC4F6F20EC4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4EA6FC-089F-489F-84A5-F548B8B869D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4EA6FC-089F-489F-84A5-F548B8B869D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4EA6FC-089F-489F-84A5-F548B8B869D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4EA6FC-089F-489F-84A5-F548B8B869D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C26A8CF7-2C72-4C21-ACD7-13F776DEE546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26A8CF7-2C72-4C21-ACD7-13F776DEE546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26A8CF7-2C72-4C21-ACD7-13F776DEE546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26A8CF7-2C72-4C21-ACD7-13F776DEE546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {089BBBEC-62F8-4E06-8F04-470AA09FA34D}
+	EndGlobalSection
+EndGlobal

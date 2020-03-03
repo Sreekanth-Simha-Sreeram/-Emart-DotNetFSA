@@ -1,0 +1,16 @@
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Entities\bin\Debug\netcoreapp2.2\Emart.Entities.deps.json
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Entities\bin\Debug\netcoreapp2.2\Emart.Entities.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Entities\bin\Debug\netcoreapp2.2\Emart.Entities.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Entities\obj\Debug\netcoreapp2.2\Emart.Entities.AssemblyInfoInputs.cache
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Entities\obj\Debug\netcoreapp2.2\Emart.Entities.AssemblyInfo.cs
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Entities\obj\Debug\netcoreapp2.2\Emart.Entities.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Entities\obj\Debug\netcoreapp2.2\Emart.Entities.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Entities\obj\Debug\netcoreapp2.2\Emart.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Entities\bin\Debug\netcoreapp2.2\Emart.Entities.deps.json
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Entities\bin\Debug\netcoreapp2.2\Emart.Entities.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Entities\bin\Debug\netcoreapp2.2\Emart.Entities.pdb
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Entities\obj\Debug\netcoreapp2.2\Emart.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Entities\obj\Debug\netcoreapp2.2\Emart.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Entities\obj\Debug\netcoreapp2.2\Emart.Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Entities\obj\Debug\netcoreapp2.2\Emart.Entities.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Entities\obj\Debug\netcoreapp2.2\Emart.Entities.pdb

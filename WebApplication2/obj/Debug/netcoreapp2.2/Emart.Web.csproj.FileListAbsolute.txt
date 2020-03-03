@@ -1,0 +1,78 @@
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Web.deps.json
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Web.runtimeconfig.json
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Web.runtimeconfig.dev.json
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Web.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Web.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Web.Views.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Web.Views.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.BussinessLayer.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.DataLayer.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Entities.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.BussinessLayer.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.DataLayer.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Entities.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.csprojAssemblyReference.cache
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.RazorAssemblyInfo.cache
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.RazorAssemblyInfo.cs
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.AssemblyInfoInputs.cache
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.AssemblyInfo.cs
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.TagHelpers.input.cache
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.TagHelpers.output.cache
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.RazorCoreGenerate.cache
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.RazorTargetAssemblyInfo.cache
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.RazorTargetAssemblyInfo.cs
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.Views.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.csproj.CopyComplete
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.csproj.CoreCompileInputs.cache
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Web.deps.json
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Web.runtimeconfig.json
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Web.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Web.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Web.pdb
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Web.Views.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Web.Views.pdb
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.BussinessLayer.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.DataLayer.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Entities.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.BussinessLayer.pdb
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.DataLayer.pdb
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\bin\Debug\netcoreapp2.2\Emart.Entities.pdb
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.AssemblyInfo.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.TagHelpers.input.cache
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.TagHelpers.output.cache
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.Views.pdb
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.csproj.CopyComplete
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\WebApplication2\obj\Debug\netcoreapp2.2\Emart.Web.pdb

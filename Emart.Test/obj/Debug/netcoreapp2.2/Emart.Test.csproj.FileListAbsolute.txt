@@ -1,0 +1,41 @@
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.Test.deps.json
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.Test.runtimeconfig.json
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.Test.runtimeconfig.dev.json
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.Test.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.Test.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.BussinessLayer.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.DataLayer.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.Entities.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.BussinessLayer.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.DataLayer.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.Entities.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\obj\Debug\netcoreapp2.2\Emart.Test.csprojAssemblyReference.cache
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\obj\Debug\netcoreapp2.2\Emart.Test.AssemblyInfoInputs.cache
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\obj\Debug\netcoreapp2.2\Emart.Test.AssemblyInfo.cs
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\obj\Debug\netcoreapp2.2\Emart.Test.csproj.CopyComplete
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\obj\Debug\netcoreapp2.2\Emart.Test.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\obj\Debug\netcoreapp2.2\Emart.Test.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.Test\obj\Debug\netcoreapp2.2\Emart.Test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.Test.deps.json
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.Test.runtimeconfig.json
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.Test.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.Test.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.Test.pdb
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.BussinessLayer.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.DataLayer.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.Entities.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.BussinessLayer.pdb
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.DataLayer.pdb
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\bin\Debug\netcoreapp2.2\Emart.Entities.pdb
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\obj\Debug\netcoreapp2.2\Emart.Test.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\obj\Debug\netcoreapp2.2\Emart.Test.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\obj\Debug\netcoreapp2.2\Emart.Test.AssemblyInfo.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\obj\Debug\netcoreapp2.2\Emart.Test.csproj.CopyComplete
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\obj\Debug\netcoreapp2.2\Emart.Test.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.Test\obj\Debug\netcoreapp2.2\Emart.Test.pdb
