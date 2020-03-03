@@ -1,0 +1,27 @@
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.2\Emart.BussinessLayer.deps.json
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.2\Emart.BussinessLayer.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.2\Emart.BussinessLayer.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.2\Emart.DataLayer.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.2\Emart.Entities.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.2\Emart.DataLayer.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.2\Emart.Entities.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.2\Emart.BussinessLayer.csprojAssemblyReference.cache
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.2\Emart.BussinessLayer.AssemblyInfoInputs.cache
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.2\Emart.BussinessLayer.AssemblyInfo.cs
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.2\Emart.BussinessLayer.csproj.CopyComplete
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.2\Emart.BussinessLayer.dll
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.2\Emart.BussinessLayer.pdb
+E:\.Net IIHT -Code&Documents\.Net IIHT\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.2\Emart.BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.2\Emart.BussinessLayer.deps.json
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.2\Emart.BussinessLayer.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.2\Emart.BussinessLayer.pdb
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.2\Emart.DataLayer.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.2\Emart.Entities.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.2\Emart.DataLayer.pdb
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\bin\Debug\netcoreapp2.2\Emart.Entities.pdb
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.2\Emart.BussinessLayer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.2\Emart.BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.2\Emart.BussinessLayer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.2\Emart.BussinessLayer.csproj.CopyComplete
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.2\Emart.BussinessLayer.dll
+C:\Users\Admin\Desktop\EMart\EmartwithTest\Emart.net core\Emart.BussinessLayer\obj\Debug\netcoreapp2.2\Emart.BussinessLayer.pdb
